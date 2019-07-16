@@ -1,3 +1,3 @@
 # python-http
 
-Simple Hello World Python HTTP server
+A simple Hello World Python HTTP server
